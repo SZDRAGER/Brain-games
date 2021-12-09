@@ -1,5 +1,5 @@
 import getRandomInRange from '../get-random.js';
-import playGame from '../engine.js';
+import playGame from '../index.js';
 
 const textRules = 'Answer "yes" if the number is even, otherwise answer "no".';
 

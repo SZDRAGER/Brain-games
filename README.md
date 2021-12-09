@@ -20,3 +20,10 @@ Type name of the game which you would like to play in the command-line.
 You need to answer whether a given number is even or not.
 
 ![brain-even](/gif/brain-even.gif)
+
+* __brain-calc__
+
+Addition, subtraction or multiplication of two random integers.
+
+![brain-calc](/gif/brain-calc.gif)
+
