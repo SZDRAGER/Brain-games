@@ -1,4 +1,22 @@
-### Hexlet tests and linter status:
+# Hexlet tests and linter status:
 [![Actions Status](https://github.com/SZDRAGER/backend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/SZDRAGER/backend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
-[![make lint](https://github.com/SZDRAGER/backend-project-lvl1/actions/workflows/eslint.yml/badge.svg)](https://github.com/SZDRAGER/backend-project-lvl1/actions)
+[![linter](https://github.com/SZDRAGER/backend-project-lvl1/actions/workflows/eslint.yml/badge.svg)](https://github.com/SZDRAGER/backend-project-lvl1/actions)
+
+This package includes 5 simple math games to be launched as CLI.
+
+## Requirements
+
+![npm](https://www.npmjs.com/get-npm) must be installed in your operating system.
+
+## Usage
+
+Type name of the game which you would like to play in the command-line.
+
+## Games list, description and asciicast2gif gameplay samples
+
+* __brain-even__
+
+You need to answer whether a given number is even or not.
+
+![brain-even](/gif/brain-even.gif)
