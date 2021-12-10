@@ -23,7 +23,7 @@ You have to answer whether a given number is even or not.
 
 * __brain-calc__
 
-You have to calculate aYou have to do addition, subtraction or multiplication of two random integers.
+You have to do addition, subtraction or multiplication of two random integers.
 
 ![brain-calc](/gif/brain-calc.gif)
 
