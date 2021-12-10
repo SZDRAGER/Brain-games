@@ -33,3 +33,9 @@ You get two integers and have to calculate their greatest common divisor.
 
 ![brain-gcd](/gif/brain-gcd.gif)
 
+* __brain-progression__
+
+You have to calculate missed arithmetic progression term.
+
+![brain-progression](/gif/brain-progression.gif)
+
