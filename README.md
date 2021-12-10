@@ -27,3 +27,9 @@ Addition, subtraction or multiplication of two random integers.
 
 ![brain-calc](/gif/brain-calc.gif)
 
+* __brain-gcd__
+
+You get two integers and have to calculate their greatest common divisor.
+
+![brain-gcd](/gif/brain-gcd.gif)
+
