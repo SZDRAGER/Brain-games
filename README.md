@@ -17,13 +17,13 @@ Type name of the game which you would like to play in the command-line.
 
 * __brain-even__
 
-You need to answer whether a given number is even or not.
+You have to answer whether a given number is even or not.
 
 ![brain-even](/gif/brain-even.gif)
 
 * __brain-calc__
 
-Addition, subtraction or multiplication of two random integers.
+You have to calculate aYou have to do addition, subtraction or multiplication of two random integers.
 
 ![brain-calc](/gif/brain-calc.gif)
 
@@ -38,4 +38,10 @@ You get two integers and have to calculate their greatest common divisor.
 You have to calculate missed arithmetic progression term.
 
 ![brain-progression](/gif/brain-progression.gif)
+
+* __brain-prime__
+
+You have to define whether the displayed number is prime or not.
+
+![brain-prime](/gif/brain-prime.gif)
 
